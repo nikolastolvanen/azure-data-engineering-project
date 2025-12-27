@@ -1,0 +1,9 @@
+{
+	"name": "df-nikolasazureproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a72faeb4-242b-48bf-9506-a5926bada1bf",
+		"tenantId": "f7f33ad5-a8f9-40fe-86df-1f6629249f81"
+	}
+}
